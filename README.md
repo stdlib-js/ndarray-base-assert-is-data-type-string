@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isDataTypeString from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-data-type-string@deno/mod.js';
+import isDataTypeString from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-data-type-string@v0.1.0-deno/mod.js';
 ```
 
 #### isDataTypeString( value )
@@ -88,7 +88,7 @@ bool = isDataTypeString( 'int32' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isDataTypeString from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-data-type-string@deno/mod.js';
+import isDataTypeString from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-data-type-string@v0.1.0-deno/mod.js';
 
 var bool = isDataTypeString( 'binary' );
 // returns true
