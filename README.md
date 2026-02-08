@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isDataTypeString from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-data-type-string@esm/index.mjs';
+import isDataTypeString from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-data-type-string@v0.1.1-esm/index.mjs';
 ```
 
 #### isDataTypeString( value )
@@ -93,7 +93,7 @@ bool = isDataTypeString( 'int32' );
 <body>
 <script type="module">
 
-import isDataTypeString from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-data-type-string@esm/index.mjs';
+import isDataTypeString from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-data-type-string@v0.1.1-esm/index.mjs';
 
 var bool = isDataTypeString( 'binary' );
 // returns true
